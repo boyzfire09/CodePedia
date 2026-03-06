@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* #pizza-img {
+  @apply transition: transform 0.6s ease-in-out;
+}
+
+#group:hover #pizza-img {
+  @apply transform: rotate(360deg);
+} */
